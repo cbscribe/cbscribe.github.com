@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>scribe.net</title><link href="http://cbscribe.github.com/" rel="alternate"></link><link href="http://cbscribe.github.com/feeds/python.atom.xml" rel="self"></link><id>http://cbscribe.github.com/</id><updated>2013-03-20T21:20:00-07:00</updated><entry><title>Another test post</title><link href="http://cbscribe.github.com/my-second-post.html" rel="alternate"></link><updated>2013-03-20T21:20:00-07:00</updated><author><name>Chris Bradfield</name></author><id>tag:cbscribe.github.com,2013-03-20:my-second-post.html</id><summary type="html">&lt;h2&gt;more stuff&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This is a test of md style.&lt;/em&gt;&lt;/p&gt;
+&lt;div class="codehilite"&gt;&lt;pre&gt;    &lt;span class="o"&gt;:::&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt;
+    &lt;span class="n"&gt;def&lt;/span&gt; &lt;span class="n"&gt;try_code_highlighting&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
+        &lt;span class="n"&gt;print&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;it works! &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="n"&gt;try_code&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;yay!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</summary><category term="none"></category></entry></feed>
