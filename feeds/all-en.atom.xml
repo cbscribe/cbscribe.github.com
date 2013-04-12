@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>scribe.net</title><link href="http://scribe.net/" rel="alternate"></link><link href="http://scribe.net/feeds/all-en.atom.xml" rel="self"></link><id>http://scribe.net/</id><updated>2013-03-21T01:20:00-07:00</updated><entry><title>Python for kids</title><link href="http://scribe.net/python-for-kids.html" rel="alternate"></link><updated>2013-03-21T01:20:00-07:00</updated><author><name>Chris Bradfield</name></author><id>tag:scribe.net,2013-03-21:python-for-kids.html</id><summary type="html">&lt;p&gt;This is the beginnings of the course description for the Python programming class I'm planning for my daughter's elementary school.  The class will be 5th graders (10-11 years old).  This is a work in progress.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>scribe.net</title><link href="http://scribe.net/" rel="alternate"></link><link href="http://scribe.net/feeds/all-en.atom.xml" rel="self"></link><id>http://scribe.net/</id><updated>2013-04-11T01:20:00-07:00</updated><entry><title>Working on KidsCanCode.org</title><link href="http://scribe.net/working-on-kidscancodeorg.html" rel="alternate"></link><updated>2013-04-11T01:20:00-07:00</updated><author><name>Chris Bradfield</name></author><id>tag:scribe.net,2013-04-11:working-on-kidscancodeorg.html</id><summary type="html">&lt;p&gt;I'm excited to write about my newest project, &lt;a href="http://kidscancode.org/"&gt;KidsCanCode&lt;/a&gt;.  I've been strongly in favor of increased computer science
+instruction for kids for some time.  However, the more I've gotten involved with schools, the more I realize that the public school system (nor even
+private schools in most cases) is not going to be able to address the problem.  K-12 education is focused solely on serving the standardized testing
+agenda, and tightening budgets will only make it more so.&lt;/p&gt;
+&lt;p&gt;See &lt;a href="http://code.org/"&gt;Code.org&lt;/a&gt; for more, including some eye-opening stats.&lt;/p&gt;
+&lt;p&gt;So what's the solution?  I believe there is plenty of interest out there from parents, educators, and organizations - we just need more people to work
+to make it happen.  At KidsCanCode we're going to be building affordable after-school programs and workshops that will get more kids the hands-on
+experience with technology that will spark a lifelong interest.&lt;/p&gt;
+&lt;p&gt;Ultimately our goal in particular is to put these tools in the hands of those groups of kids who are the most underserved when it comes to technology
+education:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Girls - while women earn 57% of all undergraduate degrees in the US, they only account for 18% of those issued in computer science related fields (see
+&lt;a href="http://www.todaysengineer.org/2013/Mar/gender-diversity.asp"&gt;Today's Engineer: Fostering Gender Diversity in Computing&lt;/a&gt;).
+We need to foster an early interest in girls, especially prior to high school.&lt;/li&gt;
+&lt;li&gt;Underpriviledged kids - Using the Raspberry Pi allows us to supply an incredible learning computer to kids who may not have access to a computer
+at home.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That's the idea.  I look forward to updating here with our progress.&lt;/p&gt;
+&lt;h4&gt;A note on this blog&lt;/h4&gt;
+&lt;p&gt;I'm still tinkering with how I want to set this up, so you'll notice there is no comments section.  I'm of two minds about the value of blog comments in
+general, so they may not materialize at all.  If you'd like to contact me, please feel free to use the link on the right.&lt;/p&gt;</summary><category term="kids"></category><category term="teaching"></category><category term="programming"></category></entry><entry><title>Python for kids</title><link href="http://scribe.net/python-for-kids.html" rel="alternate"></link><updated>2013-03-21T01:20:00-07:00</updated><author><name>Chris Bradfield</name></author><id>tag:scribe.net,2013-03-21:python-for-kids.html</id><summary type="html">&lt;p&gt;This is the beginnings of the course description for the Python programming class I'm planning for my daughter's elementary school.  The class will be 5th graders (10-11 years old).  This is a work in progress.&lt;/p&gt;
 &lt;h2&gt;Goals of the course&lt;/h2&gt;
 &lt;p&gt;This course will provide an introduction to the general concepts of computer programming, using the Python language.  The students will gain an understanding of computer science principles and a functional familiarity with general programming techniques such as abstraction, decomposition, and algorithms.&lt;/p&gt;
 &lt;h4&gt;Benefits of learning programming&lt;/h4&gt;
@@ -24,11 +44,4 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;General purpose - can be applied to many different types of problems&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="kids"></category><category term="teaching"></category><category term="programming"></category></entry><entry><title>Another test post</title><link href="http://scribe.net/my-second-post.html" rel="alternate"></link><updated>2013-03-20T21:20:00-07:00</updated><author><name>Chris Bradfield</name></author><id>tag:scribe.net,2013-03-20:my-second-post.html</id><summary type="html">&lt;h2&gt;more stuff&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;This is a test of md style.&lt;/em&gt;&lt;/p&gt;
-&lt;div class="codehilite"&gt;&lt;pre&gt;    &lt;span class="o"&gt;:::&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt;
-    &lt;span class="n"&gt;def&lt;/span&gt; &lt;span class="n"&gt;try_code_highlighting&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
-        &lt;span class="n"&gt;print&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;it works! &amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;foo&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-
-    &lt;span class="n"&gt;try_code&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;yay!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="none"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="kids"></category><category term="teaching"></category><category term="programming"></category></entry></feed>
